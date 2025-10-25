@@ -7,7 +7,7 @@
 ## Contents
 
 - [About](#about)  
-- [Download / Installation (no Python required)](#download--installation-no-python-required)  
+- [Download / Installation ](#download--installation)  
 - [Add `salangdev.exe` to your PATH (Windows)](#add-salangdevexe-to-your-path-windows)  
 - [Run from Command Prompt (CMD)](#run-from-command-prompt-cmd)  
 - [Run from PowerShell](#run-from-powershell)  
@@ -22,13 +22,13 @@
 
 ## About
 
-**SaLangDev** is distributed to end users as a single native Windows executable called `salangdev.exe`. This README assumes you will use the `.exe` (or an official Windows installer which installs the `.exe`) so **no Python or development environment is required** to run programs.
+**SaLangDev** is distributed to end users as a single native Windows executable called `salangdev.exe`. This README assumes you will use the `.exe` (or an official Windows installer which installs the `.exe`) so **Development environment is required** to run programs.
 
 If you want the exact developer/build process, see the project repo's developer docs — this file focuses strictly on installing, adding to PATH, running, and usage examples.
 
 ---
 
-## Download / Installation (no Python required)
+## Download / Installation
 
 1. Open the repository's **Releases** page on GitHub or the `releases/` folder in the repo.  
 2. Download one of the following assets (choose the easiest for you):  
