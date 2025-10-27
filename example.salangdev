@@ -1,0 +1,19 @@
+# Example SaLangDev program - First.salangdev
+
+set x digit = 10
+set y digit = 5
+
+set name letters = "Salman Fareed"
+set grade one_letter = 'A'
+
+outcome "Running SaLangDev Program..."
+outcome "Welcome, " + name
+outcome "Your grade is: " + grade
+
+outcome "Addition: " + (x + y)
+outcome "Subtraction: " + (x - y)
+outcome "Multiplication: " + (x * y)
+outcome "Division: " + (x / y)
+
+outcome "Summary: " + name + " got grade " + grade + " and scored " + (x + y) + " points."
+outcome "Program completed successfully!"
